@@ -1,0 +1,23 @@
+{
+    "name": "anso/http",
+    "description": "Http framework for training project.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Andrij Kshanovskij",
+            "email": "andrewafk2000@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": "^7.4",
+        "anso/contract": "*",
+        "anso/base": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Anso\\Framework\\Http\\": "src\\"
+        }
+    }
+}
