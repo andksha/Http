@@ -1,5 +1,9 @@
 ## Http framework for a training project.
 
+## Requirements
+
+PHP >= 7.4
+
 ## Installation
 
 [anso/http](https://github.com/VioletTrain/http) can be installed via [Composer](https://getcomposer.org).
