@@ -12,6 +12,7 @@
     "minimum-stability": "dev",
     "require": {
         "php": "^7.4",
+        "symfony/http-foundation": "^5.0.2",
         "anso/contract": "*",
         "anso/base": "*"
     },
