@@ -5,7 +5,7 @@ namespace Anso\Framework\Http\Test;
 use Anso\Framework\Base\Configuration;
 use Anso\Framework\Base\Container;
 use Anso\Framework\Base\Test\DB\DBTestCase;
-use Anso\Framework\Contract\Application;
+use Anso\Framework\Base\Contract\Application;
 use Anso\Framework\Http\HttpApp;
 use Doctrine\ORM\EntityManager;
 use Doctrine\ORM\EntityManagerInterface;

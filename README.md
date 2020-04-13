@@ -44,7 +44,7 @@ require __DIR__ . '/../vendor/autoload.php';
 
 use Anso\Framework\Base\Configuration;
 use Anso\Framework\Base\Container;
-use Anso\Framework\Contract\Application;
+use Anso\Framework\Base\Contract\Application;
 use Anso\Framework\Http\HttpApp;
 
 $configuration = new Configuration('/config/http');

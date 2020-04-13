@@ -2,7 +2,7 @@
 
 namespace Anso\Framework\Http\Contract\Exception;
 
-use Anso\Framework\Contract\ApplicationException;
+use Anso\Framework\Base\Contract\ApplicationException;
 
 interface HttpException extends ApplicationException
 {

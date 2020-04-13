@@ -2,7 +2,7 @@
 
 namespace Anso\Framework\Http\Routing;
 
-use Anso\Framework\Contract\Application;
+use Anso\Framework\Base\Contract\Application;
 use Anso\Framework\Base\Configuration;
 use Anso\Framework\Http\Request;
 use Anso\Framework\Http\Response;
